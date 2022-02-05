@@ -29,29 +29,301 @@ Students will write three 7-page papers, on the subjects of sound word, sound te
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Paper 1 | 25% |
-| Paper 2 | 25% |
-| Paper 3 | 25% |
-| Class participation: discussion and in-class writing | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 1
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 2
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 3
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation: discussion and in-class writing
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| LEC # | TOPICS | GUESTS | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | Course introduction | &nbsp; |
-| 2 | Thinking about sound | &nbsp; |
-| 3 | Acoustemologies | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Soundscapes {{< br >}}{{< br >}} Soundwalk at MIT {{< br >}}{{< br >}}  | &nbsp; |
-| 5 | Voices | &nbsp; | Sound word paper due |
-| 6 |  {{< br >}}{{< br >}} Telephones and radio {{< br >}}{{< br >}} Soundscapes, revisited through sound sculpture {{< br >}}{{< br >}}  | [Beth Coleman](http://cms.mit.edu/people/bcoleman/), Comparative Media Studies, MIT | &nbsp; |
-| 7 | Phonograph and gramophone records, compact discs, MP3s | Kieran Downes, History, Anthropology, and Science, Technology, and Society, MIT | &nbsp; |
-| 8 | Sound, culture, property | [Ian Condry](https://anthropology.mit.edu/people/faculty/ian-condry), Foreign Languages and Literatures, MIT | &nbsp; |
-| 9 | A political economy of sound and noise | [Andres Lombana](http://www.andreslombana.net/), Comparative Media Studies, MIT | &nbsp; |
-| 10 | The sound of music | Peter Whincop, Music, Harvard University / Music and Theatre Arts, MIT | Sound technology paper due |
-| 11 | Sonic publics | &nbsp; |
-| 12 | Styles of silence | &nbsp; |
-| 13 | The sounds of science | Dale Joachim, Media Lab, MIT | &nbsp; |
-| 14 | Class presentations of sonic communities paper | &nbsp; | Sonic communities paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+GUESTS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Thinking about sound
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Acoustemologies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Soundscapes
+
+Soundwalk at MIT
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Voices
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Sound word paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Telephones and radio
+
+Soundscapes, revisited through sound sculpture
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Beth Coleman](http://cms.mit.edu/people/bcoleman/), Comparative Media Studies, MIT
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Phonograph and gramophone records, compact discs, MP3s
+{{< tdclose >}}
+{{< tdopen >}}
+Kieran Downes, History, Anthropology, and Science, Technology, and Society, MIT
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Sound, culture, property
+{{< tdclose >}}
+{{< tdopen >}}
+[Ian Condry](https://anthropology.mit.edu/people/faculty/ian-condry), Foreign Languages and Literatures, MIT
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+A political economy of sound and noise
+{{< tdclose >}}
+{{< tdopen >}}
+[Andres Lombana](http://www.andreslombana.net/), Comparative Media Studies, MIT
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The sound of music
+{{< tdclose >}}
+{{< tdopen >}}
+Peter Whincop, Music, Harvard University / Music and Theatre Arts, MIT
+{{< tdclose >}}
+{{< tdopen >}}
+Sound technology paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Sonic publics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Styles of silence
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+The sounds of science
+{{< tdclose >}}
+{{< tdopen >}}
+Dale Joachim, Media Lab, MIT
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Class presentations of sonic communities paper
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Sonic communities paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
