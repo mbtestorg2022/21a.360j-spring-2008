@@ -169,7 +169,7 @@ Whitehead, Gregory. "The Problem with Bodies." ([MP3 - 2.0 MB](http://media.sas.
 
 Seremetakis, Nadia. "The Screaming." In _The Last Word: Women, Death, and Divination in Inner Mani_. Chicago, IL: University of Chicago Press, 1991, pp. 64-81. ISBN: 9780226748764.
 
-Miller, Thomas Ross. "Object Lessons: Wooden Spirits, Wax Voices, and Collecting the Folk." In _Properties of Culture/Culture as Property: Pathways to Reform in Post-Soviet Siberia_. Edited by Erich Kasten. Berlin, Germany: Dietrich Reimer Verlag, 2004. ISBN: 9783496027683. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.siberian-studies.org/publications/PDF/cpmiller.pdf))
+Miller, Thomas Ross. "Object Lessons: Wooden Spirits, Wax Voices, and Collecting the Folk." In _Properties of Culture/Culture as Property: Pathways to Reform in Post-Soviet Siberia_. Edited by Erich Kasten. Berlin, Germany: Dietrich Reimer Verlag, 2004. ISBN: 9783496027683. ([PDF](http://www.siberian-studies.org/publications/PDF/cpmiller.pdf))
 
 Samuels, David. "Alien Tongues." In _E.T. Culture: Anthropology in Outerspaces_. Edited by Debbora Battaglia. Durham, NC: Duke University Press, 2005, pp. 94-129. ISBN: 9780822336211.
 
@@ -221,7 +221,7 @@ Kunreuther, Laura. "Technologies of the Voice: FM Radio, Telephone, and the Nepa
 
 ### Soundscapes, revisited through sound sculpture
 
-Coleman, Beth, and Howard Goldkrand. "Anatomy of an Amalgamation." _Leonardo Music Journal_ 16 (2006): 53-55. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://muse.jhu.edu/journals/leonardo_music_journal/v016/16.1coleman.pdf))
+Coleman, Beth, and Howard Goldkrand. "Anatomy of an Amalgamation." _Leonardo Music Journal_ 16 (2006): 53-55. ([PDF](http://muse.jhu.edu/journals/leonardo_music_journal/v016/16.1coleman.pdf))
 
 
 {{< tdclose >}}
@@ -484,9 +484,9 @@ Johnson, Emma, and Robert Lecusay. "In Space, NASA Can Hear You Scream: Examinin
 
 Beer, Gillian. "Wave Theory and the Rise of Literary Modernism." In _Open Fields: Science in Cultural Encounter_. New York, NY: Oxford University Press, 1999, pp. 295-318. ISBN: 9780198186359.
 
-Helmreich, Stefan. "An Anthropologist Underwater: Immersive Soundscapes, Submarine Cyborgs, and Transductive Ethnography." _American Ethnologist_ 34, no. 4 (2007): 621-641. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://quote.ucsd.edu/sed/files/2015/03/Helmreich2007an-anthropologist-underwater.pdf))
+Helmreich, Stefan. "An Anthropologist Underwater: Immersive Soundscapes, Submarine Cyborgs, and Transductive Ethnography." _American Ethnologist_ 34, no. 4 (2007): 621-641. ([PDF](https://quote.ucsd.edu/sed/files/2015/03/Helmreich2007an-anthropologist-underwater.pdf))
 
-Polli, Andrea. "Heat and the Heartbeat of the City: Sonifying Data Describing Climate Change." _Leonardo Music Journal_ 16 (2006): 44-45. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://muse.jhu.edu/journals/leonardo_music_journal/v016/16.1polli.pdf))
+Polli, Andrea. "Heat and the Heartbeat of the City: Sonifying Data Describing Climate Change." _Leonardo Music Journal_ 16 (2006): 44-45. ([PDF](http://muse.jhu.edu/journals/leonardo_music_journal/v016/16.1polli.pdf))
 
 Joachim, Dale. [The Owl Project](http://www.xtec.cat/~ncasas12/). 2006-2008.
 
